@@ -37,7 +37,7 @@ public class ExampleForGithub extends Application
         
         StackPane root = new StackPane();
         root.getChildren().add(btn);
-        
+        System.out.println("Change to the remote repo");
         Scene scene = new Scene(root, 300, 250);
         
         primaryStage.setTitle("Hello World!");
