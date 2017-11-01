@@ -39,7 +39,7 @@ public class ExampleForGithub extends Application
         root.getChildren().add(btn);
         System.out.println("Another line of code");
         Scene scene = new Scene(root, 300, 250);
-        
+        System.out.println("Distant conflict");
         primaryStage.setTitle("Hello World!");
         primaryStage.setScene(scene);
         primaryStage.show(); 
