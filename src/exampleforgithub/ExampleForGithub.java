@@ -42,7 +42,8 @@ public class ExampleForGithub extends Application
         
         primaryStage.setTitle("Hello World!");
         primaryStage.setScene(scene);
-        primaryStage.show();
+        primaryStage.show(); 
+        
     }
 
     /**
